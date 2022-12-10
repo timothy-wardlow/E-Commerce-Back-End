@@ -26,6 +26,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Walkthrough Video
 
+[Click Me](https://drive.google.com/file/d/1loQG3QW9aDW0_M6UKlD1Z9iPH7fqEJGn/view?usp=share_link)
+
 ## Credits
 
 Tim Wardlow
